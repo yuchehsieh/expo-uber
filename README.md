@@ -25,7 +25,7 @@ Run Project Locally: `expo start` or `yarn dev`
 
 ## Stats
 
-- Expo SDK 36
+- Expo SDK 37
 - React Navigation v4
 - PropTypes
 
@@ -46,7 +46,9 @@ Run Project Locally: `expo start` or `yarn dev`
 
 ### version 0.0.1 (current)
 
+- upgraded to [Expo SDK 37](https://blog.expo.io/expo-sdk-37-is-now-available-dd5770f066a6)
 - upgraded to [Expo SDK 36](https://blog.expo.io/expo-sdk-36-is-now-available-b91897b437fe)
+- upgraded to [React Navigation v4](https://reactnavigation.org/docs/4.x/getting-started)
 - upgraded to [Expo SDK 35](https://blog.expo.io/expo-sdk-35-is-now-available-beee0dfafbf4)
 - upgraded to [Expo SDK 34](https://blog.expo.io/expo-sdk-34-is-now-available-4f7825239319)
 - upgraded to [Expo SDK 33](https://blog.expo.io/expo-sdk-v33-0-0-is-now-available-52d1c99dfe4c)
